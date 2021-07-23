@@ -1,0 +1,22 @@
+{
+  "name": "aprendendoci-cd",
+  "version": "1.0.0",
+  "description": "aa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ci": "echo \"Error: no test specified\" && exit 1",
+    "publish": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersoney/AprendendoCi-CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersoney/AprendendoCi-CD/issues"
+  },
+  "homepage": "https://github.com/andersoney/AprendendoCi-CD#readme"
+}
