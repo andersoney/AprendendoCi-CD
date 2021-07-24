@@ -4,7 +4,7 @@
   "description": "aa",
   "main": "index.js",
   "scripts": {
-    "test": "test\\initialTest.js",
+    "test": "node   test\\initialTest.js",
     "ci": "echo \"using CI\"",
     "publish": "echo \"Using publish\" && exit 1"
   },
