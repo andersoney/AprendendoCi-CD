@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test\\initialTest.js",
-    "ci": "echo \"Error: no test specified\" && exit 1",
-    "publish": "echo \"Error: no test specified\" && exit 1"
+    "ci": "echo \"using CI\"",
+    "publish": "echo \"Using publish\" && exit 1"
   },
   "repository": {
     "type": "git",
